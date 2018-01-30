@@ -1,4 +1,4 @@
-0c957ec34b585eed7419425ac300969c *DESCRIPTION
+6b2707df186b89b9e924c07f2558f899 *DESCRIPTION
 89dbf296acb6f9fe28ac2ef21f6621c9 *NAMESPACE
 0499660e6887fe36252902f2ad6f9d70 *R/K2mat.R
 d547402829044e66a6e6f24843b6f77d *R/RcppExports.R
@@ -19,8 +19,8 @@ e2ac2cc10508d9b6ce50acccbb48671d *man/ergoStool.Rd
 9d682f6e463d777a3f8bcf443ad2d240 *man/kdeFSBT.Rd
 05d1179a8d3907e2565bf30025490f9e *man/rblme.Rd
 07e9f845a6fbff0b20013d7375ad0ced *man/tune.h.Rd
-71dd29b254a181b3b9dda4ef7383c09a *src/Makevars
-8cdcef86f6eed62bceee879b2a80e91b *src/Makevars.win
+d2d14de06cb10e5f83eb3b7b2029b6b6 *src/Makevars
+284d0babff77d166aab33c66ff15c634 *src/Makevars.win
 d08b815f104cf8ef08b05215afa1e900 *src/RcppExports.cpp
 e1c5bf2544d51fda28719819d3b6f1c7 *src/extrafuns.h
 a858b5833ea325a1ad72faaa69bf5151 *src/extrafuns_cpp.cpp
